@@ -1,1 +1,0 @@
-web: python "HOSTING BOT.py"
